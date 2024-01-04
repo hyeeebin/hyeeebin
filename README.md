@@ -1,6 +1,6 @@
 
-<!--### Hi there 👋-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=welcome)
+<!--### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=welcome)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeeebin&show_icons=true&theme=radical)
 
 <!--
